@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "dest",
+        "lib": [
+            "DOM",
+            "ES2023"
+        ],
+        "target": "ES2022",
+        "strict": true
+    }
+}

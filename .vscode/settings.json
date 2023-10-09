@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.root": "/dest",
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.port": 6969
+}
