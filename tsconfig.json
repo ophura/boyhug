@@ -3,7 +3,7 @@
         "outDir": "dest",
         "lib": [
             "DOM",
-            "ES2023"
+            "ES2022"
         ],
         "target": "ES2022",
         "strict": true
